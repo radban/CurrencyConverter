@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency Converter in CodeIgniter 2
+Currency Converter in CodeIgniter 3
